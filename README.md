@@ -186,13 +186,6 @@ This project contributes to research areas including:
 
 Models were validated on an independent dataset emphasizing **high recall performance**, ensuring reliable detection of protection events and minimizing missed faults.
 
----
-
-## 👩‍💻 Author
-
-**Sumy**
-Computer Engineering Student
-Artificial Intelligence & Cybersecurity Enthusiast
 
 ---
 
