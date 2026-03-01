@@ -1,0 +1,35 @@
+# Core
+python>=3.10
+
+# Data Processing
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Notebook / Experimentation
+jupyter
+notebook
+ipykernel
+
+# Utilities
+tqdm
+joblib
+
+# File Handling
+openpyxl
+
+# Metrics and evaluation
+scikit-plot
