@@ -166,8 +166,6 @@ Example training execution:
 python train.py
 ```
 
-(Adjust script names according to repository structure.)
-
 ---
 
 ## 🔬 Research Context
